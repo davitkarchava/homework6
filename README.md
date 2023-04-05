@@ -1,1 +1,1 @@
-# homework6
+This repository is created for homework_6
