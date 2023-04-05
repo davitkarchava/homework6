@@ -1,1 +1,1 @@
-This repository is created for homework_6
+This repository is created for davaleba_6
